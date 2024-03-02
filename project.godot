@@ -23,6 +23,7 @@ Global="*res://autoloads/global.gd"
 
 window/size/viewport_width=800
 window/size/viewport_height=448
+window/stretch/mode="viewport"
 
 [input]
 
